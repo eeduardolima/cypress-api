@@ -1,0 +1,15 @@
+{
+  "name": "projeto-cypress-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Eduardo Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
